@@ -7,7 +7,7 @@ OBJECTIVES
 PROBLEM:  Health Profile Console Program
 GymsRUs has a need to provide fitness/health information to their clients, including BMI and maximum heart rate. Your task is to write a console program to do this.
 
-Body mass index (BMI) is a measure of body fat based on a person’s height and weight. BMI can be used to indicate if you are overweight, obese, underweight, or normal. The formula to calculate BMI is
+Body mass index (BMI) is a measure of body fat based on a person’s height and weight. BMI can be used to indicate if you are overweight, obese, underweight, or normal. The formula to calculate BMI is BMI = (weight(lb) * 703) / ((height(in))^2)
  
 
 The following BMI categories are based on this calculation.
