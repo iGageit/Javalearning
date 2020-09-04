@@ -1,10 +1,5 @@
 /*
  *Copyright 2020, Oracle America, Inc. All rights reserved. Use is subject to license terms. ORACLE and JAVA trademarks and all ORACLE- and JAVA-related trademarks, service marks, logos and other brand designations are trademarks or registered trademarks of Oracle in the U.S. and other countries.”
-Student: Richardson Gage Milton
-Date: 2020-09-02
-Teacher: Jack Sibrizzi
-Class: BUSINESS APPLICATIONS PROGRAMMING WITH LAB - 11990
- */
 
 /**************************************************** 
 Program Name: Week1Lab.java 
