@@ -1,8 +1,7 @@
 /**************************************************** 
 Program Name: HealthProfile.java 
-Programmer's Name: Richardson Gage Milton
-Program Description: This program will take input from user of their age, name, weight, height and then use that data to calculate their bmi 
-***********************************************************/
+
+*/
 package week.pkg1.lab;
 
 public class HealthProfile {
